@@ -1,9 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
 using System.Text.RegularExpressions;
-using System.Net;
 using System.Collections.Specialized;
+using System.Collections.Generic;
+using System.Net;
+using System.IO;
+using System;
 
 
 namespace DiscordTokenGrabber
